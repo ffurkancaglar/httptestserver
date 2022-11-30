@@ -3,13 +3,15 @@
     {
       "id": 1,
       "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "hello sadadasd"
     }
   ],
   "profile": {
     "name": "typicode"
+  },
+  "data": {
+    {
+      "id": 2,
+      "title": "hello sadadasd"
+    } 
   }
 }
